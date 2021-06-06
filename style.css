@@ -1,0 +1,62 @@
+.travel_div {
+    border: 1px solid #c7c7c7;
+    float: none;
+}
+
+.travel_div img {
+    width: 100%;
+}
+
+.travel_div h5,
+travel_div p {
+    margin-left: 20px;
+}
+
+.travel_div hr {
+    width: 230px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: aqua;
+}
+
+#sports_list {
+    margin-top: 13px;
+}
+
+#sports_list img {
+    border-radius: 25px;
+}
+
+#sports_list p {
+    margin-top: 10px;
+}
+
+#sports_list h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.book {
+    cursor: pointer;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.Tom{
+    margin-top: 10px;
+    text-align: center;
+}
